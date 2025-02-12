@@ -1,5 +1,8 @@
 # Climate Analysis and API Development
 
+![image](https://github.com/user-attachments/assets/c11bb03e-75c9-4a98-b478-10bdd69f240a)
+
+
 ## Overview
 This project involves analyzing climate data for Honolulu, Hawaii, to help with trip planning. Using Python, SQLAlchemy, Pandas, and Matplotlib, we explore historical weather data and create a Flask API to provide climate insights.
 
